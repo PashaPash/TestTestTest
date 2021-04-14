@@ -1,3 +1,4 @@
 some line
 line added in master
 line1
+eee
