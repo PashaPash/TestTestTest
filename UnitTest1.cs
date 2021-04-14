@@ -8,14 +8,18 @@ namespace TestTestTest
         [TestMethod]
         public void TestMethod1()
         {
-            // some1
+            // ---
             var a = 1;
 
-            // some2
+            // change to 2 in pr1
             var b = 1;
 
-            // assert
+            // uncomment in pr2
             // Assert.AreEqual(2, a + b);
+            
+            // wait for both pr validation build
+            // merge pr1
+            // merge pr2
         }
     }
 }
