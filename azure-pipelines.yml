@@ -7,6 +7,9 @@ pr:
   branches:
     include:
     - master
+    - pr1
+    - pr2
+    - pr3
 
 pool:
   vmImage: ubuntu-latest
