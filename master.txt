@@ -7,3 +7,4 @@ some master branch changes
 some
 some change
 add line
+add
