@@ -12,7 +12,7 @@ namespace TestTestTest
             var a = 1;
 
             // some2
-            var b = 1;
+            var b = 2;
 
             // assert
             Assert.AreEqual(2, a + b);
