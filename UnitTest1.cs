@@ -15,7 +15,7 @@ namespace TestTestTest
             var b = 1;
 
             // assert
-            // Assert.AreEqual(2, a + b);
+            Assert.AreEqual(2, a + b);
         }
     }
 }
