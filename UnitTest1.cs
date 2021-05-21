@@ -12,7 +12,7 @@ namespace TestTestTest
             var a = 1;
 
             // change to 2 in pr1
-            var b = 1;
+            var b = 2;
 
             // uncomment in pr2
             // Assert.AreEqual(2, a + b);
