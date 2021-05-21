@@ -15,7 +15,7 @@ namespace TestTestTest
             var b = 1;
 
             // uncomment in pr2
-            // Assert.AreEqual(2, a + b);
+            Assert.AreEqual(2, a + b);
             
             // wait for both pr validation build
             // merge pr1
